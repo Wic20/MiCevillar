@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "name": "Admin Cevillar",
+      "username": "admin",
+      "email": "admin@cevillar.edu.hn",
+      "password": "$2a$10$ejp.9PQAAqoXChScUwrinObby5avwMUtyKCJPrjuyPNs2b4LPQDEO",
+      "role": "admin"
+    },
+    {
+      "id": 1002,
+      "name": "Juan Martínez",
+      "username": "j.martinez",
+      "email": "juan.martinez@cevillar.edu.hn",
+      "password": "$2a$10$mmqJUnxCbvTjVOX4bnCEPOxFDetXu9cHMBq4yia56gIjIpgd9qZ2u",
+      "role": "student"
+    }
+  ],
+  "documents": [],
+  "requests": []
+}
